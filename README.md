@@ -274,6 +274,7 @@ jupyter notebook
 
 Run the notebooks in order:
 
+```text
 01_Data_Understanding.ipynb
         ↓
 02_Data_Cleaning.ipynb
@@ -285,7 +286,7 @@ Run the notebooks in order:
 05_Model_Training.ipynb
         ↓
 06_Model_Evaluation.ipynb
-
+```
 ---
 
 ## 👨‍💻 Author
