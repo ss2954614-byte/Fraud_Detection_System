@@ -272,7 +272,7 @@ jupyter notebook
 
 ---
 
-Run the notebooks in order:
+**Run the notebooks in order:**
 
 ```text
 01_Data_Understanding.ipynb
