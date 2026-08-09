@@ -120,6 +120,7 @@ Fraud-Detection-System/
 
 ## Project Workflow
 
+```text
 Data Understanding
         ↓
 Data Cleaning
@@ -139,6 +140,7 @@ Logistic Regression + SMOTE
 Model Evaluation
         ↓
 Final Prediction System
+```
 
 ---
 
@@ -226,19 +228,19 @@ compared with the baseline Logistic Regression model.
 
 Because fraud detection is an imbalanced classification problem, multiple evaluation metrics were considered.
 
-**Precision**
+- **Precision**
 
 Measures how many transactions predicted as fraud were actually fraudulent.
 
-**Recall**
+- **Recall**
 
 Measures how many actual fraudulent transactions were successfully detected.
 
-**F1-Score**
+- **F1-Score**
 
 Provides a balance between precision and recall.
 
-**ROC-AUC**
+- **ROC-AUC**
 
 Measures the model's ability to distinguish between legitimate and fraudulent transactions across different classification thresholds.
 
